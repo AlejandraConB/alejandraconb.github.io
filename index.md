@@ -12,6 +12,21 @@ There should be whitespace between paragraphs.
 
 # Acerca de mi. 
 
+🔹Soy una persona entusiasta del arte, las matemáticas y la tecnología. Mi inclinación en el arte abarca desde dibujo y pintura hasta su incorporación en la tecnología, con la intención de fusionar ambas áreas. 
+
+🔹Egresada como Desarrolladora Full Stack Java en Generation Chile.Tengo destrezas para desempeñarme en el desarrollo web y aplicaciones móviles. 
+Me caracterizo por ser organizada, orientada a los detalles y por el aprendizaje continuo. 
+
+🔹He adquirido conocimientos en tecnologías como:      
+
+- Javascript
+- React
+- HTML
+- CSS
+- Java 
+- MySQL
+- Git
+- GitHub
 
 ## Header 2
 
@@ -103,14 +118,14 @@ end
 ### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>JavaScript</dt>
+<dd>CSS</dd>
+<dt>React</dt>
+<dd>HTML</dd>
+<dt>Java</dt>
+<dd>MySQL</dd>
+<dt>Git</dt>
+<dd>Jira</dd>
 </dl>
 
 ```
