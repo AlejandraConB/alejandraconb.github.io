@@ -17,16 +17,18 @@ There should be whitespace between paragraphs.
 🔹Egresada como Desarrolladora Full Stack Java en Generation Chile.Tengo destrezas para desempeñarme en el desarrollo web y aplicaciones móviles. 
 Me caracterizo por ser organizada, orientada a los detalles y por el aprendizaje continuo. 
 
-🔹He adquirido conocimientos en tecnologías como:      
+🔹He adquirido conocimientos en tecnologías como:     
 
-- Javascript
-- React
-- HTML
-- CSS
-- Java 
-- MySQL
-- Git
-- GitHub
+<dl>
+<dt>JavaScript</dt>
+<dd>CSS</dd>
+<dt>React</dt>
+<dd>HTML</dd>
+<dt>Java</dt>
+<dd>MySQL</dd>
+<dt>Git</dt>
+<dd>GitHub</dd>
+</dl>
 
 ## Header 2
 
@@ -62,15 +64,6 @@ end
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
@@ -114,19 +107,6 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>JavaScript</dt>
-<dd>CSS</dd>
-<dt>React</dt>
-<dd>HTML</dd>
-<dt>Java</dt>
-<dd>MySQL</dd>
-<dt>Git</dt>
-<dd>Jira</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
