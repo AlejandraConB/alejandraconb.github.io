@@ -10,18 +10,18 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Acerca de mi
+## Acerca de mi
 Mi primera página web from Alejandra Contreras
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-# Lenguajes de programación y herramientas
+## Lenguajes de programación y herramientas
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-# Contacto
+## Contacto
 
 ```js
 // Javascript code with syntax highlighting.
